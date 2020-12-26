@@ -1,4 +1,4 @@
 name: wangsy's yet another wiki powered by Jekyll
 highlighter: rouge
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
